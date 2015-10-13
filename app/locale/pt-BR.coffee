@@ -1238,13 +1238,13 @@ module.exports = nativeDescription: "Português do Brasil", englishDescription: 
     retrying: "Erro de servidor, tentando novamente."
     success: "A transação foi completada com sucesso. Obrigado!"
 
-#  account_prepaid:
-#    purchase_code: "Purchase a Subscription Code"
-#    purchase_amount: "Amount"
-#    purchase_total: "Total"
-#    purchase_button: "Submit Purchase"
-#    your_codes: "Your Codes:"
-#    redeem_codes: "Redeem a Subscription Code"
+  account_prepaid:
+    purchase_code: "Compre um Código de Subscrição"
+    purchase_amount: "Valor"
+    purchase_total: "Total"
+    purchase_button: "Submeter Compra"
+    your_codes: "Seus Códigos:"
+    redeem_codes: "Resgatar um Código de Subscrição"
 
   loading_error:
     could_not_load: "Erro ao carregar do servidor"
